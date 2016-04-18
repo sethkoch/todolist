@@ -1,0 +1,18 @@
+.row#row1 div{
+
+      height:180px;
+      background-color:lightblue;
+      text-align:center;
+      font-size:24px;
+      border: 1px dotted black;
+      padding:8px;
+
+}
+.row#row2 div{
+	height:180px;
+	background-color:lightgreen;
+	text-align:center;
+	font-size:24px;
+	border: 1px dotted black;
+	padding:8px;
+}
